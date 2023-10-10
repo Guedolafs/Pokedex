@@ -1,1 +1,1 @@
-Projeto de uma Pokedéx feito em React.js em andamento.
+Projeto de uma Pokedéx com api sendo feita em React.js.
