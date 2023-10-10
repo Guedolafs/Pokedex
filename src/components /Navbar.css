@@ -1,0 +1,43 @@
+.navbar {
+  z-index: 999;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    background-color: #f2f2f2;
+  }
+  
+  .search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .search-input {
+    margin-right: 10px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    border: 1px solid black;
+  }
+  
+  .search-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid black;
+  }
+
+  .campo-busca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%; /* Defina uma altura para que a div preencha todo o espaço vertical disponível */
+  }
